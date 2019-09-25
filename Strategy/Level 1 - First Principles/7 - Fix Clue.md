@@ -56,3 +56,6 @@ Until the 4 was played, there was a chance somebody would draw the real purple 5
 	
 * [Previous: Trust Your Team](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%201%20-%20First%20Principles/6%20-%20Trust%20Your%20Team.md)
 	* Assume your team mates are smart, don't make mistakes, and are choosing the best move on every turn
+
+* [Next: Discard Principle](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%201%20-%20First%20Principles/8%20-%20Discard%20Principle.md)
+	* Discarding should be a last resort action, the group is allowed very few discards to be able to get max score. If there is anything better to do, you should do that instead

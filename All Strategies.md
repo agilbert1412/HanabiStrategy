@@ -28,3 +28,6 @@ Here is a list of every single strategy in order
 
 ### [7 - Fix Clue](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%201%20-%20First%20Principles/7%20-%20Fix%20Clue.md)
 * If you know a misplay is about to happen right now, spend a clue to fix it with information that contradicts what the person believed to be true. If you get a clue that contradict something you were sure to know, it is a Fix Clue.
+
+### [8 - Discard Principle](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%201%20-%20First%20Principles/8%20-%20Discard%20Principle.md)
+* Discarding should be a last resort action, the group is allowed very few discards to be able to get max score. If there is anything better to do, you should do that instead
