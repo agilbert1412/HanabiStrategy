@@ -33,3 +33,6 @@ You should only end the early game when you either run out of clues, or there is
 * [Level 2 - Beginner Strategies](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/Level%202%20-%20Beginner.md)
 
 * [Go back to Level 1 - First Principles](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%201%20-%20First%20Principles/Level%201%20-%20First%20Principles.md)
+
+* [Next: The Prompt](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
+	* Give a Play Clue to a higher-ranked card to notice someone that one of their clued cards goes in-between. Play the newest clued card that could be what is needed when someone prompts you.
