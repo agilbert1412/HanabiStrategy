@@ -35,3 +35,16 @@ This is a list of all of our techniques. This list also includes principles for 
 
 ### [8 - Discard Principle](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%201%20-%20First%20Principles/8%20-%20Discard%20Principle.md)
 * Discarding should be a last resort action, the group is allowed very few discards to be able to get max score. If there is anything better to do, you should do that instead
+
+
+<br />
+
+## Navigation
+
+### [Home Page](https://github.com/agilbert1412/HanabiStrategy/blob/master/README.md)
+
+### [All Strategies](https://github.com/agilbert1412/HanabiStrategy/blob/master/All%20Strategies.md)
+* Big list of every single Strategy in this repository, in order
+
+### [Conventions](https://github.com/agilbert1412/HanabiStrategy/blob/master/Conventions.md)
+* All the Conventions that we have agreed on

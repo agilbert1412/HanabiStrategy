@@ -16,3 +16,16 @@ This is a list of all of our agreed-upon conventions
 ## List of Conventions
 
 empty list
+
+
+<br />
+
+## Navigation
+
+### [Home Page](https://github.com/agilbert1412/HanabiStrategy/blob/master/README.md)
+
+### [All Strategies](https://github.com/agilbert1412/HanabiStrategy/blob/master/All%20Strategies.md)
+* Big list of every single Strategy in this repository, in order
+
+### [Techniques](https://github.com/agilbert1412/HanabiStrategy/blob/master/Techniques.md)
+* All the Techniques that we are aware of

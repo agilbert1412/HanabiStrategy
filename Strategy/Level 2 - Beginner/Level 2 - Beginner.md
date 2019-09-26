@@ -22,3 +22,13 @@ The level of strategies in this section usually makes the difference between goo
 
 ### [11 - The Finesse](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/11%20-%20The%20Finesse.md)
 * Same as Prompt, except none of the clued cards match the expected card. Then play your newest unclued card. Give out finesses to get new unclued cards played for free.
+
+<br />
+
+## Navigation
+
+### [Home Page](https://github.com/agilbert1412/HanabiStrategy/blob/master/README.md)
+
+### [Move down to Level 1 - First Principles](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%201%20-%20First%20Principles/Level%201%20-%20First%20Principles.md)
+
+### [Move up to Level 3 - Intermediate Strategies](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/Level%203%20-%20Intermediate.md)

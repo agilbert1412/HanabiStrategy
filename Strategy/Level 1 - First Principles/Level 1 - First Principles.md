@@ -33,3 +33,11 @@ The principles should only change if your group changes the rules of the game or
 
 ### [8 - Discard Principle](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%201%20-%20First%20Principles/8%20-%20Discard%20Principle.md)
 * Discarding should be a last resort action, the group is allowed very few discards to be able to get max score. If there is anything better to do, you should do that instead
+
+<br />
+
+## Navigation
+
+### [Home Page](https://github.com/agilbert1412/HanabiStrategy/blob/master/README.md)
+
+### [Move up to Level 2 - Beginner Strategies](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/Level%202%20-%20Beginner.md)
