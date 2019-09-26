@@ -30,7 +30,7 @@ Yellow: Hard and some shuffles will be unwinnable
 No Color: Easy, All or almost all shuffles are winnable
 
 <p align="center">
-    <img src="images/8_DiscardTable.png" height="200" />
+    <img src="images/8_DiscardTable.png" />
 </p>
 
 A critical suit is a suit that only has one card of each (none of them can be discarded), totalling 5 cards of that suit instead of 10. Some suit variants, like black, are critical. Critical suits have a huge impact on the number of allowed discards, and are therefore very difficult to win.
