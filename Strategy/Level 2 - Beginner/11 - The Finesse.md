@@ -47,4 +47,5 @@ This finesse actually points to Cathy's third card, since the first two are know
 * [Previous: The Prompt](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
 	* Give a Play Clue to a higher-ranked card to notice someone that one of their clued cards goes in-between. Play the newest clued card that could be what is needed when someone prompts you.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
+* [Next: Starting 1s](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/12%20-%20Starting%201s.md)
+	* If you have multiple playable 1s, play the ones that were not in your starting hand, from newest to oldest, then the ones that were in your starting hand, from oldest to newest

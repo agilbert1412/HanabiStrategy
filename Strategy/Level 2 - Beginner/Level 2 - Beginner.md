@@ -23,6 +23,9 @@ The level of strategies in this section usually makes the difference between goo
 ### [11 - The Finesse](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/11%20-%20The%20Finesse.md)
 * Same as Prompt, except none of the clued cards match the expected card. Then play your newest unclued card. Give out finesses to get new unclued cards played for free.
 
+### [11 - Starting 1s](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/12%20-%20Starting%201s.md)
+* If you have multiple playable 1s, play the ones that were not in your starting hand, from newest to oldest, then the ones that were in your starting hand, from oldest to newest
+
 <br />
 
 ## Navigation
