@@ -67,7 +67,7 @@ If you don't feel like reading all this, the group pages listing the techniques 
 ### [Mistakes](https://github.com/agilbert1412/HanabiStrategy/blob/master/Categories/Mistakes.md)
 * Common mistakes that can easily be identified on the fly and recovered from as well as possible
 
-<br / >
+<br />
 
 ## Other Resources
 
