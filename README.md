@@ -67,4 +67,14 @@ If you don't feel like reading all this, the group pages listing the techniques 
 ### [Mistakes](https://github.com/agilbert1412/HanabiStrategy/blob/master/Categories/Mistakes.md)
 * Common mistakes that can easily be identified on the fly and recovered from as well as possible
 
+<br / >
+
+## Other Resources
+
+### [Academic Papers related to Hanabi](https://github.com/agilbert1412/HanabiStrategy/blob/master/Academic%20Papers/Academic%20Papers.md)
+* All academic papers that have been written about Hanabi that I am aware of
+
+### [Hyphen-ated conventions](https://github.com/Zamiell/hanabi-conventions)
+* The group that came up with most of the stuff in this repository. They don't always use the same terminology for similar ideas, but they are the source of almost all of them.
+
 
