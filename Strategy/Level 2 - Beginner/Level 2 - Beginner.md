@@ -26,6 +26,15 @@ The level of strategies in this section usually makes the difference between goo
 ### [12 - Starting 1s](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/12%20-%20Starting%201s.md)
 * If you have multiple playable 1s, play the ones that were not in your starting hand, from newest to oldest, then the ones that were in your starting hand, from oldest to newest
 
+### [13 - Reverse Finesse](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/13%20-%20Reverse%20Finesse.md)
+* When you receive a play clue, look around to see if it could be a finesse or a prompt. If it could be, delay playing for one turn to see if anyone sitting after you responds to it. Play afterwards.
+
+### [14 - Prompt Finesse](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/14%20-%20Prompt%20Finesse.md)
+* If you get prompted, an it works, but isn't the expected card, keep playing the next prompt. If you run out before finding the card, play your finesse position. If you give a finesse that looks like a prompt, make sure the prompted card(s) is/are playable too.
+
+### [15 - The Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/15%20-%20The%20Bluff.md)
+* You can pretend to finesse a card that you don't see to get the player directly on your left to blind play his newest card, even if it is an unrelated card.
+
 <br />
 
 ## Navigation

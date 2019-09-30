@@ -54,4 +54,5 @@ Of course, if at any point before he's done playing all of them, it becomes logi
 * [Previous: The Finesse](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/11%20-%20The%20Finesse.md)
 	* Same as Prompt, except none of the clued cards match the expected card. Then play your newest unclued card. Give out finesses to get new unclued cards played for free.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
+* [Next: Reverse Finesse](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/13%20-%20Reverse%20Finesse.md)
+	* When you receive a play clue, look around to see if it could be a finesse or a prompt. If it could be, delay playing for one turn to see if anyone sitting after you responds to it. Play afterwards.
