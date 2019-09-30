@@ -35,6 +35,9 @@ The level of strategies in this section usually makes the difference between goo
 ### [15 - The Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/15%20-%20The%20Bluff.md)
 * You can pretend to finesse a card that you don't see to get the player directly on your left to blind play his newest card, even if it is an unrelated card.
 
+### [16 - Finesse or Bluff?](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/16%20-%20Finesse%20Or%20Bluff.md)
+* If something that happens fit all the requirements to be a valid bluff, then it is assumed to be one, if not, then it is a finesse
+
 <br />
 
 ## Navigation

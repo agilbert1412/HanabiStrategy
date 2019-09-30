@@ -38,4 +38,5 @@ If everyone respects those conditions, then not only do you get 2 cards touched 
 * [Previous: Prompt Finesse](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/14%20-%20Prompt%20Finesse.md)
 	* If you get prompted, an it works, but isn't the expected card, keep playing the next prompt. If you run out before finding the card, play your finesse position. If you give a finesse that looks like a prompt, make sure the prompted card(s) is/are playable too.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
+* [Next: Finesse or Bluff?](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/16%20-%20Finesse%20Or%20Bluff.md)
+	* If something that happens fit all the requirements to be a valid bluff, then it is assumed to be one, if not, then it is a finesse
