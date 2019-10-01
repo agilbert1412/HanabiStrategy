@@ -25,4 +25,5 @@ As always, trust your team mates
 * [Previous: The Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/15%20-%20The%20Bluff.md)
 	* You can pretend to finesse a card that you don't see to get the player directly on your left to blind play his newest card, even if it is an unrelated card.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
+* [Next: Urgency Principle](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/17%20-%20Urgency%20Principle.md)
+	* If you have something to blind play this turn, it is extremely important that you do it. Unless you see something else to do that HAS to be done now, your blind play are the most important action and should not be delayed.

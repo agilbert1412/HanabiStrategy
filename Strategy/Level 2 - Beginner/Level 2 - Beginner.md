@@ -38,6 +38,18 @@ The level of strategies in this section usually makes the difference between goo
 ### [16 - Finesse or Bluff?](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/16%20-%20Finesse%20Or%20Bluff.md)
 * If something that happens fit all the requirements to be a valid bluff, then it is assumed to be one, if not, then it is a finesse
 
+### [17 - Urgency Principle](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/17%20-%20Urgency%20Principle.md)
+* If you have something to blind play this turn, it is extremely important that you do it. Unless you see something else to do that HAS to be done now, your blind play are the most important action and should not be delayed.
+
+### [18 - Early Game Part 2](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/18%20-%20Early%20Game%202.md)
+* Only end the early game if there are no play clues and save clues left to give (or you run out of clues), and at least one stall has been given
+
+### [19 - Priority](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/19%20-%20Priority.md)
+* If you can play multiple things, order is Blind play -> Cards that allow someone else to play -> Cards that allow you to play -> 5s -> Lowest ranked card -> Most recent card.
+
+### [20 - Priority Plays](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/20%20-%20Priority%20Plays.md)
+* If someone seems to deviate from priority, it is signal, like a play clue, on the card(s) needed for the move to be correct priority. Any card you don't see, you have.
+
 <br />
 
 ## Navigation

@@ -1,4 +1,4 @@
-# Early Game
+# Early Game Part 1
 
 <br />
 
@@ -25,6 +25,8 @@ Of course, if you can give actual play clues or save clues on the chop, or play 
 The early game ends when the first blind discard happens (discarding a card that could be semi-critical). Misplays and known discards don't end the early game.
 
 You should only end the early game when you either run out of clues, or there is nothing of value left to clue.
+
+[Early Game Part 2](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/18%20-%20Early%20Game%202.md)
 
 <br />
 
