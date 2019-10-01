@@ -7,6 +7,7 @@
 Sometimes, your turn will come and you will have several playable cards. As mentioned earlier, blind plays should be played asap, but sometimes all of the cards are not blind plays. You should not choose randomly.
 
 Here is the best order when deciding what to play on this turn:
+
 	1. Blind plays - Necessary to make sure everyone understands the situation as well as possible. If you have multiple blind plays, do them in the order you received them.
 	2. Cards you are certain will allow someone to play something - Not playing those makes the team lose Tempo
 	3. Cards you are certain will allow you to play something on the next turn. - This will give you more choice for the next turn, possibly giving you a better option then
