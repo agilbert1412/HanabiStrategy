@@ -27,7 +27,7 @@ Therefore, if a player not allowed to lie to you promises you that you have a ca
 ## Examples
 
 <p align="center">
-    <img src="images/<21_LayersExample.png" />
+    <img src="images/21_LayersExample.png" />
 </p>
 
 SedNegi tells Zamiel about one 3 (yellow3)
