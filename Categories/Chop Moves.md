@@ -18,7 +18,7 @@ Obviously, the chop move only affects the specific card, not the slot, so when t
 
 ## Types of Chop Moves
 
-### [22 - 5 Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
+### [22 - 5 Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/22%20-%205%20Chop%20Move.md)
 * If you receive "5" on a card exactly one slot away from chop, it is a save clue on both the 5 and the current chop.
 
 ### [23 - Trash Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/23%20-%20Trash%20Chop%20Move.md)
