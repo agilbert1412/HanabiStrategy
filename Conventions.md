@@ -15,8 +15,8 @@ This is a list of all of our agreed-upon conventions
 
 ## List of Conventions
 
-empty list
-
+### [22 - 5 Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
+* If you receive "5" on a card exactly one slot away from chop, it is a save clue on both the 5 and the current chop.
 
 <br />
 
