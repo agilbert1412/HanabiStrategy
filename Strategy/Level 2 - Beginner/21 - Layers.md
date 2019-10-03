@@ -56,5 +56,5 @@ Zamiel is told he has a playable three. Of course, since no three is playable, h
 * [Previous: Priority Plays](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/20%20-%20Priority%20Plays.md)
 	* If someone seems to deviate from priority, it is signal, like a play clue, on the card(s) needed for the move to be correct priority. Any card you don't see, you have.
 
-* [Next: 5 Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
+* [Next: 5 Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/22%20-%205%20Chop%20Move.md)
 	* If you receive "5" on a card exactly one slot away from chop, it is a save clue on both the 5 and the current chop.

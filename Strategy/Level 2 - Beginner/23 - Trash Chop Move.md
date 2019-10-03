@@ -30,7 +30,7 @@ Assuming slot #5 is your chop, if you get clued "1" on slot #2 while there are n
 
 * [Chop Moves](https://github.com/agilbert1412/HanabiStrategy/blob/master/Categories/Chop%20Moves.md)
 
-* [Previous: 5 Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
+* [Previous: 5 Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/22%20-%205%20Chop%20Move.md)
 	* If you receive "5" on a card exactly one slot away from chop, it is a save clue on both the 5 and the current chop.
 
 * [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/21%20-%20Layers.md)
