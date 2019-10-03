@@ -50,6 +50,15 @@ The level of strategies in this section usually makes the difference between goo
 ### [20 - Priority Plays](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/20%20-%20Priority%20Plays.md)
 * If someone seems to deviate from priority, it is signal, like a play clue, on the card(s) needed for the move to be correct priority. Any card you don't see, you have.
 
+### [21 - Layers](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/21%20-%20Layers.md)
+* If you promise a playable card to someone, you are not promising its exact position. You are only promising that, if they play the most likely card over and over, they will find it before making a mistake. They may play one or even many unrelated playable cards while looking for it, as long as they try the most likely (for a finesse, newest unclued card that existed when the clue was given) every time.
+
+### [22 - 5 Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
+* If you receive "5" on a card exactly one slot away from chop, it is a save clue on both the 5 and the current chop.
+
+### [23 - Trash Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/23%20-%20Trash%20Chop%20Move.md)
+* If someone clues one or many cards that are obviously trash (and not on chop) and not a single useful card in a clue, they want you to discard those before your other cards. Chop move every card older than the oldest trash that got touched
+
 <br />
 
 ## Navigation

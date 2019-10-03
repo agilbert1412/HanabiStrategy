@@ -14,7 +14,7 @@ This leads to three possible plays.
 
 1. The Priority Prompt, where the next card is clud somewhere, and the person can just play it if you prompt it with a priority play.
 2. The Priority Finesse, where the next card is not clued, but on someone's finesse slot, so they can blind play it.
-3. The Priority Bluff, where the card isn't actually anywhere, so the player on your lft will blind play their finesse slot and play an unrelated card for free.
+3. The Priority Bluff, where the card isn't actually anywhere, so the player on your left will blind play their finesse slot and play an unrelated card for free.
 
 All the reasoning, techniques and conditions for the Prompt, Finesse and Bluff apply here. Think of the priority move as the same message as if you had clued the card two ranks higher. You play red3 as a priority move, it's just like you had clued someone's red5 as "red" and signaled that the red4 was somewhere. The logic is the same, except you didn't actually clue anything, and directly signaled the playability of the 4 without having a 5 anywhere.
 
@@ -36,4 +36,5 @@ Ex: You have an unknown 3 and an unknown 4, both play clued, they could be the s
 * [Previous: Priority](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/19%20-%20Priority.md)
 	* If you can play multiple things, order is Blind play -> Cards that allow someone else to play -> Cards that allow you to play -> 5s -> Lowest ranked card -> Most recent card.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
+* [Next: Layers](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/21%20-%20Layers.md)
+	* If you promise a playable card to someone, you are not promising its exact position. You are only promising that, if they play the most likely card over and over, they will find it before making a mistake. They may play one or even many unrelated playable cards while looking for it, as long as they try the most likely (for a finesse, newest unclued card that existed when the clue was given) every time.
