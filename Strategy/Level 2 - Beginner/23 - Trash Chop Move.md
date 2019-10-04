@@ -33,4 +33,5 @@ Assuming slot #5 is your chop, if you get clued "1" on slot #2 while there are n
 * [Previous: 5 Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/22%20-%205%20Chop%20Move.md)
 	* If you receive "5" on a card exactly one slot away from chop, it is a save clue on both the 5 and the current chop.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/21%20-%20Layers.md)
+* [Next: Scream Discard Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/24%20-%20Scream%20Discard%20Chop%20Move.md)
+	* If the player on your left is about to discard a critical card and you can't save it, but he expects you to play something, discard instead to let him know he needs to use a clue right now.

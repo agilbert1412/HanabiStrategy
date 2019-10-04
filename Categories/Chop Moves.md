@@ -23,3 +23,6 @@ Obviously, the chop move only affects the specific card, not the slot, so when t
 
 ### [23 - Trash Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/23%20-%20Trash%20Chop%20Move.md)
 * If someone clues one or many cards that are obviously trash (and not on chop) and not a single useful card in a clue, they want you to discard those before your other cards. Chop move every card older than the oldest trash that got touched
+
+### [23 - Scream Discard Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/24%20-%20Scream%20Discard%20Chop%20Move.md)
+* If the player on your left is about to discard a critical card and you can't save it, but he expects you to play something, discard instead to let him know he needs to use a clue right now.

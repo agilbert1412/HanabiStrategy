@@ -59,6 +59,21 @@ The level of strategies in this section usually makes the difference between goo
 ### [23 - Trash Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/23%20-%20Trash%20Chop%20Move.md)
 * If someone clues one or many cards that are obviously trash (and not on chop) and not a single useful card in a clue, they want you to discard those before your other cards. Chop move every card older than the oldest trash that got touched
 
+### [24 - Scream Discard Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/24%20-%20Scream%20Discard%20Chop%20Move.md)
+* If the player on your left is about to discard a critical card and you can't save it, but he expects you to play something, discard instead to let him know he needs to use a clue right now.
+
+### [25 - Gentleman's Discard](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/25%20-%20Gentleman%20Discard.md)
+* If you are about to play a card, but see it playable (findable) somewhere else (ex: finesse position), you can discard it instead to send a message. Only do it if it brings some value.
+
+### [26 - Balancing Plays](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/26%20-%20Balancing%20Plays.md)
+* Try to spread cards to play around the table as much as possible. Having one person holding too many cards to be played can cost a lot of tempo
+
+### [27 - Minimum Clue Value](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/27%20-%20Minimum%20Clue%20Value.md)
+* Every clue should get at least one new card to be played now or later, except specific situations where you are forced to give a clue and nothing good is available
+
+### [28 - Tempo Clue](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/28%20-%20Tempo%20Clue.md)
+* When in a situation where no efficient value clues are available but you must say something, give a clue that gains tempo.
+
 <br />
 
 ## Navigation
