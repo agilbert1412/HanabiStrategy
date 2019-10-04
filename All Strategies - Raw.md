@@ -804,7 +804,7 @@ If you understand all the previous Techniques relatively well, you will win some
 
 Pretty much every deck shuffle is winnable, but some decks are much easier than others when it comes to Tempo. To reach the next level, you must optimize your tempo.
 
-One of the biggest things, when it comes to tempo, is the fact that one player having more cards to play than the others is bad. For each card a player needs to play, every other player needs to do something too, because you can't skip turns. The game's entropy menas that you move closer to the end faster than you are progressing. For example, if only one player has playable cards, then for each card played, n-1 (n being the number of players) clues or cards are used up (discards).
+One of the biggest things, when it comes to tempo, is the fact that one player having more cards to play than the others is bad. For each card a player needs to play, every other player needs to do something too, because you can't skip turns. The game's entropy means that you move closer to the end faster than you are progressing. For example, if only one player has playable cards, then for each card played, n-1 (n being the number of players) clues or cards are used up (discards).
 
 Of course, if a playable card is only visible in that player's hand, it would be a worse waste of time to not do anything about it than to clue it. But for all the cases where you see two copies, you should prioritize getting the one that is in a less-active player's hand.
 
@@ -857,7 +857,7 @@ Cases where zero-value clues are accepted (low-value are still better)
  - When you just received a Scream Discard
  - When in the endgame
 
-Example of zero-value clues: Regiving a known information, stamping on a finesse, etc
+Example of zero-value clues: Regiving a known information, stomping on a finesse, etc
 
 
 
