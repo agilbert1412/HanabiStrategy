@@ -22,12 +22,12 @@ This is also why Hanabi is easier, at least on paper, with 3 players than with 5
 
 This table is the number of discards possible without reducing the max score, for different number of players and suits. Some combinations are simply unwinnable and shouldn't be played.
 
-The table also shows the number of available clues (discards + 8), and therefore the minimum efficiency (cards played per clue, on average) needed to win the different combination
+The table also shows the number of available clues (discards + 8), and therefore the minimum efficiency (cards played per clue, on average) needed to win the different combinations.
 
-Red: Unwinnable unless the shuffle is extremely lucky, don't bother
-Orange: Extremely hard and many shuffles will be unwinnable
-Yellow: Hard and some shuffles will be unwinnable
-No Color: Easy, All or almost all shuffles are winnable
+* Red: Unwinnable unless the shuffle is extremely lucky, don't bother
+* Orange: Extremely hard and many shuffles will be unwinnable
+* Yellow: Hard and some shuffles will be unwinnable
+* No Color: Easy, All or almost all shuffles are winnable
 
 <p align="center">
     <img src="images/8_DiscardTable.png" />
