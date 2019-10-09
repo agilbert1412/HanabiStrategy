@@ -24,7 +24,7 @@ This table is the number of discards possible without reducing the max score, fo
 
 The table also shows the number of available clues (discards + 8), and therefore the minimum efficiency (cards played per clue, on average) needed to win the different combinations.
 
-* Red: Unwinnable unless the shuffle is extremely lucky, don't bother
+* Red: Unwinnable unless the shuffle is extremely lucky, don't bother trying.
 * Orange: Extremely hard and many shuffles will be unwinnable
 * Yellow: Hard and some shuffles will be unwinnable
 * No Color: Easy, All or almost all shuffles are winnable

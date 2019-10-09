@@ -14,9 +14,9 @@ If at least one card was literally "changed" in the mind of the receiver, it is 
 Fix clues should still at least attempt to follow good touch principle, otherwise it will require another fix clue later.
 
 A fix clue should only be given if at least one of those is true:
-    * The impending misplay will kill the game (the team is on their last life)
-    * The impending misplay will destroy a critical card
-    * The fix clue can be given in a manner to "good touch" at least one other useful card.
+* The impending misplay will kill the game (the team is on their last life)
+* The impending misplay will destroy a critical card
+* The fix clue can be given in a manner to "good touch" at least one other useful card.
 
 This is because a fix clue is spending a clue to save a life and a card. If the card is trash and the team is at 3 lives, it can be misplayed, because saving it just to make the person discard it is spending a clue to get a clue, which is not worth it. If good touch allows you to make the fix and touch a future important card, then it is also worth it, since it is value-equivalent to a 1-card play clue.
 
