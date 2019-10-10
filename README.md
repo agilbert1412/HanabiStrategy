@@ -55,6 +55,9 @@ If you don't feel like reading all this, the group pages listing the techniques 
 
 ## [Categories of Strategies](https://github.com/agilbert1412/HanabiStrategy/blob/master/Categories/Categories.md)
 
+### [Flowcharts](https://github.com/agilbert1412/HanabiStrategy/blob/master/Categories/Flowcharts.md)
+* Different flowcharts to use as reminders of what information to consider in different situations
+
 ### [Chop Moves](https://github.com/agilbert1412/HanabiStrategy/blob/master/Categories/Chop%20Moves.md)
 * Different types of Chop Moves and how to perform them
 
