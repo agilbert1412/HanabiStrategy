@@ -14,8 +14,11 @@ The level of strategies in this section will allow players to succeed even when 
 
 ## Intermediate Strategies
 
-### [29 - ]()
-* Description
+### [29 - Double Half Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/29%20-%20Double%20Half%20Bluff.md)
+* You can clue a card two-away from playable to finesse the first missing card, and bluff the player on the left of the person who was finessed
+
+### [30 - Positional Discard](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/30%20-%20Positional%20Discard.md)
+* If you know that your entire hand is trash, and you want to tell someone what to play, instead of using a clue you can just choose to discard the card on the slot that you want this person to play.
 
 <br />
 

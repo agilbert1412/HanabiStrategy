@@ -16,6 +16,8 @@ It is hard to put a precise number on the value of a tempo clue. We know that te
 
 Note: When someone gives a clue, always be aware of their situation. If they were allowed to give a low-value clue, or a zero-value clue, take that into account in your interpretation.
 
+<br />
+
 ## Situations where tempo clues are worth giving even though they are low-value
 
 In those situations, even though you wouldn't be allowed to give any low-value clue, the tempo clue is valuable enough to allow it.
