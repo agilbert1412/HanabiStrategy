@@ -20,6 +20,33 @@ The level of strategies in this section will allow players to succeed even when 
 ### [30 - Positional Discard](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/30%20-%20Positional%20Discard.md)
 * If you know that your entire hand is trash, and you want to tell someone what to play, instead of using a clue you can just choose to discard the card on the slot that you want this person to play.
 
+### [31 - Generation Discard](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/31%20-%20Generation%20Discard.md)
+* Sometimes you need to discard to generate a clue that the player on your left can use to save a critical card on his left.
+
+### [32 - ]()
+* 
+
+### [33 - ]()
+* 
+
+### [34 - ]()
+* 
+
+### [35 - ]()
+* 
+
+### [36 - ]()
+* 
+
+### [37 - ]()
+* 
+
+### [38 - ]()
+* 
+
+### [39 - ]()
+* 
+
 <br />
 
 ## Navigation

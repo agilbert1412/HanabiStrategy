@@ -29,5 +29,5 @@ The vast majority of positional discards will be done during the last turn aroun
 * [Previous - Double Half Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/29%20-%20Double%20Half%20Bluff.md)
 	* You can clue a card two-away from playable to finesse the first missing card, and bluff the player on the left of the person who was finessed
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/30%20-%20The%20Prompt.md)
-	* 
+* [Next: Generation Discard](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/31%20-%20Generation%20Discard.md)
+	* Sometimes you need to discard to generate a clue that the player on your left can use to save a critical card on his left.
