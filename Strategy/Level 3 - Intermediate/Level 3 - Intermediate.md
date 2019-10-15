@@ -32,8 +32,8 @@ The level of strategies in this section will allow players to succeed even when 
 ### [34 - Trust Level](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/34%20-%20Trust%20Level.md)
 * Decide at the start of each game your trust level for each team mate and each category of moves, then act accordingly.
 
-### [35 - ]()
-* 
+### [35 - Ambiguous Finesse](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/35%20-%20Ambiguous%20Finesse.md)
+* If two people have the card you want to finesse, and the second one has high trust for the first one, you can do your finesse. The fact that the first doesn't play should be enough to make the other understand what is going on.
 
 ### [36 - ]()
 * 
