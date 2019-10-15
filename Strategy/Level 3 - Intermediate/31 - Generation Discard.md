@@ -14,8 +14,8 @@ At this point, you can, instead of playing, discard your chop, exactly as if you
 
 * [Level 3 - Intermediate Strategies](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/Level%203%20-%20Intermediate.md)
 
-* [Previous - Positional Discard](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/30%20-%20Positional%20Discard.md)
+* [Previous: Positional Discard](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/30%20-%20Positional%20Discard.md)
 	* If you know that your entire hand is trash, and you want to tell someone what to play, instead of using a clue you can just choose to discard the card on the slot that you want this person to play.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/30%20-%20The%20Prompt.md)
-	* 
+* [Next: Occam's Razor](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/32%20-%20Occams%20Razor.md)
+	* When two interpretations are possible and you have to way to clear things up, assume the safest one, and if neither is safer, assume the simpler one is correct.

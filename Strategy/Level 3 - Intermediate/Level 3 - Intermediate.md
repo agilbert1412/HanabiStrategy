@@ -23,14 +23,14 @@ The level of strategies in this section will allow players to succeed even when 
 ### [31 - Generation Discard](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/31%20-%20Generation%20Discard.md)
 * Sometimes you need to discard to generate a clue that the player on your left can use to save a critical card on his left.
 
-### [32 - ]()
-* 
+### [32 - Occam's Razor](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/32%20-%20Occams%20Razor.md)
+* When two interpretations are possible and you have to way to clear things up, assume the safest one, and if neither is safer, assume the simpler one is correct.
 
-### [33 - ]()
-* 
+### [33 - Accomplice Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/33%20-%20Accomplice%20Bluff.md)
+* You can bluff a player not on your left if your clue could not possibly be misinterpreted by the players between you and the target. Then, they become your accomplices in the bluff.
 
-### [34 - ]()
-* 
+### [34 - Trust Level](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/34%20-%20Trust%20Level.md)
+* Decide at the start of each game your trust level for each team mate and each category of moves, then act accordingly.
 
 ### [35 - ]()
 * 
