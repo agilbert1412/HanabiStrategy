@@ -35,11 +35,11 @@ The level of strategies in this section will allow players to succeed even when 
 ### [35 - Ambiguous Finesse](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/35%20-%20Ambiguous%20Finesse.md)
 * If two people have the card you want to finesse, and the second one has high trust for the first one, you can do your finesse. The fact that the first doesn't play should be enough to make the other understand what is going on.
 
-### [36 - ]()
-* 
+### [36 - Double Discard](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/36%20-%20Double%20Discard.md)
+* If somebody discards a semi-critical card, the player playing immediatly after them should not discard unless they see the other copy somewhere, because they may have it and nobody had time to save it.
 
-### [37 - ]()
-* 
+### [37 - Trash Plays](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/37%20-%20Trash%20Plays.md)
+	* Point to a trash card in someone's hand as if you were giving a play clue, so that the person who has the real copy of the card plays it to prevent the misplay. This can be used as a prompt, finesse or even bluff.
 
 ### [38 - ]()
 * 

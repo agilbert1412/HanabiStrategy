@@ -18,6 +18,9 @@ This is a list of all of our agreed-upon conventions
 ### [22 - 5 Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/22%20-%205%20Chop%20Move.md)
 * If you receive "5" on a card exactly one slot away from chop, it is a save clue on both the 5 and the current chop.
 
+### [38 - 3 Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/38%20-%203%20Bluff.md)
+* You can bluff using a 3, instead of a card 1-away from playable, as long as the clue doesn't match the played card.
+
 <br />
 
 ## Navigation
