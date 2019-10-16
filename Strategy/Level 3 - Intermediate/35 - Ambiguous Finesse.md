@@ -27,5 +27,5 @@ The previous technique didn't mention it, but Trust level are also move-dependen
 * [Previous: Trust Level](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/34%20-%20Trust%20Level.md)
 	* Decide at the start of each game your trust level for each team mate and each category of moves, then act accordingly.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/30%20-%20The%20Prompt.md)
-	* 
+* [Next: Double Discard](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/36%20-%20Double%20Discard.md)
+	* If somebody discards a semi-critical card, the player playing immediatly after them should not discard unless they see the other copy somewhere, because they may have it and nobody had time to save it.

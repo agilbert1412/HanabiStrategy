@@ -39,7 +39,7 @@ Of course, if you have something to play, you can just play. Those situations on
 ### Cases where you can give them (low-value are still better)
 
 * When the team is at 8 clues (can't discard)
-* When you are in double-discard situation
+* When you are in [Double Discard Position](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/36%20-%20Double%20Discard.md)
 * When your entire hand is clued
 * When you just received a Scream Discard
 * When in the endgame
