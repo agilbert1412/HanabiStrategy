@@ -39,10 +39,10 @@ The level of strategies in this section will allow players to succeed even when 
 * If somebody discards a semi-critical card, the player playing immediatly after them should not discard unless they see the other copy somewhere, because they may have it and nobody had time to save it.
 
 ### [37 - Trash Plays](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/37%20-%20Trash%20Plays.md)
-	* Point to a trash card in someone's hand as if you were giving a play clue, so that the person who has the real copy of the card plays it to prevent the misplay. This can be used as a prompt, finesse or even bluff.
+* Point to a trash card in someone's hand as if you were giving a play clue, so that the person who has the real copy of the card plays it to prevent the misplay. This can be used as a prompt, finesse or even bluff.
 
-### [38 - ]()
-* 
+### [38 - 3 Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/38%20-%203%20Bluff.md)
+* You can bluff using a 3, instead of a card 1-away from playable, as long as the clue doesn't match the played card.
 
 ### [39 - ]()
 * 
