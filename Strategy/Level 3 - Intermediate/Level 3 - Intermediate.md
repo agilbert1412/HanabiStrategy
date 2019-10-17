@@ -44,7 +44,13 @@ The level of strategies in this section will allow players to succeed even when 
 ### [38 - 3 Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/38%20-%203%20Bluff.md)
 * You can bluff using a 3, instead of a card 1-away from playable, as long as the clue doesn't match the played card.
 
-### [39 - ]()
+### [39 - Trash Push](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/39%20-%20Trash%20Push.md)
+* If a clue only touches known trash cards, and one of them was the chop, you should play your oldest unclued card (which just became your chop).
+
+### [40 - The Endgame](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/40%20-%20Endgame.md)
+* Optimal plays in the endgame are extremely hard to calculate, you basically have to brute force the options. As soon as there are few enough cards left to do so, you should.
+
+### [41 - ]()
 * 
 
 <br />

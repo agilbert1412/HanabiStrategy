@@ -2,7 +2,7 @@
 
 <br />
 
-## Technique
+## Convention
 
 Usually, when you do a bluff, you always use a card that is exactly one-away from playable, with an information that does not match the card that will get played. You'd say blue on a blue2 to bluff a red1, for example.
 
@@ -27,5 +27,5 @@ As far as "the clue doesn't match the played card" goes, cluing "3" to get a 1 p
 * [Previous: Trash Plays](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/37%20-%20Trash%20Plays.md)
 	* Point to a trash card in someone's hand as if you were giving a play clue, so that the person who has the real copy of the card plays it to prevent the misplay. This can be used as a prompt, finesse or even bluff.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/30%20-%20The%20Prompt.md)
-	* 
+* [Next: Trash Push](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/39%20-%20Trash%20Push.md)
+	* If a clue only touches known trash cards, and one of them was the chop, you should play your oldest unclued card (which just became your chop).
