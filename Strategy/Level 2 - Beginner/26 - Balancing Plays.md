@@ -7,7 +7,7 @@
 Most of the previous techniques were either ways to get cards played or saved with few or no clues at all, because clues are a limited resource.
 
 If you understand all the previous Techniques relatively well, you will win some games, but not all games, even though your clue efficiency will usually be higher than the minimum required. This is because of Tempo.
-Tempo is the measure of how efficiently the time is using time, which in Hanabi is represented in number of Turns. Since players can't skip turns, every turn either removes a card from the deck, or a clue from the limited stock. All those actions bring closer the end of the game and the clock can't be turned back. That's the entropy of Hanabi.
+Tempo is the measure of how efficiently the team is using time, which in Hanabi is represented in number of Turns. Since players can't skip turns, every turn either removes a card from the deck, or a clue from the limited stock. All those actions bring closer the end of the game and the clock can't be turned back. That's the entropy of Hanabi.
 In other words, for a player to do a second action, all other players must take one action themselves. If those actions are useless, it cost n (n being the number of players) turns of tempo to do only one good move. Improving tempo is improving the number of useful (score-wise) actions taken per turn around the table, on average, and this is also why we try to choose THE most useful action every turn, as opposed to just an okay action.
 
 Pretty much every deck shuffle is winnable, but some decks are much easier than others when it comes to Tempo. To reach the next level, you must optimize your tempo.

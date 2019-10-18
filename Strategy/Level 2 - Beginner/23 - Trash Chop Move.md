@@ -12,7 +12,7 @@ Giving someone a clue telling him about trash cards so that he may discard them 
 
 Since you are telling the person about discardable cards, it is not because you want them to discard them (they would have done that anyway). It is because you want them to discard them first. Aka, you want to make sure they don't discard their current chop.
 
-But if you have a clue available and want to save their chop, you could just do a save clue on their chop, and they would understand it as a save. The only exception is when there are multiple cards on the older sidethat are critical, so saving any of them individually would doom the others.
+But if you have a clue available and want to save their chop, you could just do a save clue on their chop, and they would understand it as a save. The only exception is when there are multiple cards on the older side that are critical, so saving any of them individually would doom the others.
 
 So when you receive a clue touching one or many trash cards, and no non-trash cards (and obviously none of them were the chop), it should be understood as a trash chop move, which means "Save everything that is older than the oldest trash touched by the clue". If they want you to discard those first, then it logically follows that they want you to save anything that would have been discarded first otherwise.
 
