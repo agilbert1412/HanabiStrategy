@@ -17,11 +17,11 @@ One of the biggest things, when it comes to tempo, is the fact that one player h
 Of course, if a playable card is only visible in that player's hand, it would be a worse waste of time to not do anything about it than to clue it. But for all the cases where you see two copies, you should prioritize getting the one that is in a less-active player's hand, to balance the plays around the table, and improve tempo.
 
 By less active, I mean that he has one of the following, in order from most important criteria to least
-1: fewer clued playable cards
-2: fewer unclued playable cards (excluding the one you are about to maybe clue)
-3: fewer clued unplayable (saved) cards
-4: fewer unclued unplayable (but maybe playable later) cards
-5: unclued unplayable (but maybe playable later) cards are closest to their chop
+1. fewer clued playable cards
+2. fewer unclued playable cards (excluding the one you are about to maybe clue)
+3. fewer clued unplayable (saved) cards
+4. fewer unclued unplayable (but maybe playable later) cards
+5. unclued unplayable (but maybe playable later) cards are closest to their chop
 
 Sometimes you will need to choose between a more clue-efficient play (ex: finesse) or a more tempo efficient play (getting the card in a less active player's hand). There is no general correct answer to that.
 
