@@ -4,7 +4,7 @@
 
 ## Technique
 
-The Trash Chop Move is one of many types of [Chop Moves](https://github.com/agilbert1412/HanabiStrategy/blob/master/Categories/Chop%20Moves.md).
+The Scream Discard Chop Move is one of many types of [Chop Moves](https://github.com/agilbert1412/HanabiStrategy/blob/master/Categories/Chop%20Moves.md).
 
 The two chop moves explained earlier are ways to save multiple unrelated cards with one clue. However, sometimes you don't even have a clue at all.
 
