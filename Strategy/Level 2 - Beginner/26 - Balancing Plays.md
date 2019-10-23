@@ -25,7 +25,7 @@ By less active, I mean that he has one of the following, in order from most impo
 
 Sometimes you will need to choose between a more clue-efficient play (ex: finesse) or a more tempo efficient play (getting the card in a less active player's hand). There is no general correct answer to that.
 
-Each specific case must be evaluated to the best of your capacity. How efficient is the clue-efficient play? (2 cards for one clue? 3? more?). How unbalanced will the hands be if you choose to prioritize clues (is it 4-0, or 3-2?)? Is your team currently in need of clues, or in need of tempo? Are therer many critical cards close to chops, do you need the extra clues to save them?
+Each specific case must be evaluated to the best of your capacity. How efficient is the clue-efficient play? (2 cards for one clue? 3? more?). How unbalanced will the hands be if you choose to prioritize clues (is it 4-0, or 3-2?)? Is your team currently in need of clues, or in need of tempo? Are there many critical cards close to chops, do you need the extra clues to save them?
 
 <br />
 
