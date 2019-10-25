@@ -4,8 +4,6 @@
 
 ## Technique
 
-TL;DR - Only fix an impending misplay if you are on the last life, or if the card is important.
-
 Often, in hanabi (especially beginner games), mistakes will be made. Sometimes, in higher level games, good clues will be given, with a lie component. In both cases, somebody thinks they have a specific card (or one of X possible cards), but it is false. This is called an impending misplay.
 
 It is reasonable to expect that, at some point in the game (maybe now), enough cards will be played and picked up for the person to determine that their card is playable (it's not), and misplay.

@@ -4,7 +4,7 @@
 
 ## Technique
 
-###Not to be confused with [Double Half Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/29%20-%20Double%20Half%20Bluff.md)
+### Not to be confused with [Double Half Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/29%20-%20Double%20Half%20Bluff.md)
 
 The definition of X-away card is a card that requires X cards of the same color to be played, to become playable. For example, if the yellow1 is played, the yellow2 is playable, yellow3 is 1-away, yellow4 is 2-away, etc.
 
