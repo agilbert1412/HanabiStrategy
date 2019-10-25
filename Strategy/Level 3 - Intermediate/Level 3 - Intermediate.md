@@ -50,6 +50,30 @@ The level of strategies in this section will allow players to succeed even when 
 ### [40 - The Endgame](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/40%20-%20Endgame.md)
 * Optimal plays in the endgame are extremely hard to calculate, you basically have to brute force the options. As soon as there are few enough cards left to do so, you should.
 
+### [41 - Occupied Play Clue](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/41%20-%20Occupied%20Play%20Clue.md)
+* Save clues are bad for efficiency and for tempo, and should only be given when they are needed or there is nothing better to do. If you do have something better to do, but choose to give a clue that looks like an unneeded save clue, it means it isn't one and is actually a play clue.
+
+### [42 - Early Game Principles](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/42%20-%20Early%20Game%20Principles.md)
+* Short list of things to look for in the early game.
+
+### [43 - Locked Hand and Anxiety Play](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/43%20-%20Locked%20Hand.md)
+* If your entire hand is clued, the other players must leave you clues, and you must use them even for low-value clues. If they don't leave you a clue, it means you can play something.
+
+### [44 - Misplay Cost](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/44%20-%20Misplay%20Cost.md)
+* Only fix an impending misplay if the team is on their last life, or if you don't want to lose the card that would be misplayed.
+
+### [45 - Double Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/45%20-%20Double%20Bluff.md)
+* You can use a card that is 2-away from playable for a bluff, but it is a double bluff, and gets the next two unrelated finesse-slot cards played.
+
+### [41 - ]()
+* 
+
+### [41 - ]()
+* 
+
+### [41 - ]()
+* 
+
 ### [41 - ]()
 * 
 

@@ -37,5 +37,5 @@ As the second player, if it's ambiguous, brute force it. What score do you finis
 * [Previous: Trash Push](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/39%20-%20Trash%20Push.md)
 	* If a clue only touches known trash cards, and one of them was the chop, you should play your oldest unclued card (which just became your chop).
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/30%20-%20The%20Prompt.md)
-	* 
+* [Next: Occupied Play Clue](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/41%20-%20Occupied%20Play%20Clue.md)
+	* Save clues are bad for efficiency and for tempo, and should only be given when they are needed or there is nothing better to do. If you do have something better to do, but choose to give a clue that looks like an unneeded save clue, it means it isn't one and is actually a play clue.
