@@ -1,0 +1,1 @@
+magick mogrify -format png -path ./PNGs -repage -1-4 -background transparent -flatten *.svg
