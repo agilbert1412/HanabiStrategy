@@ -4,7 +4,7 @@
 
 ## Technique
 
-###Not to be confused with [Double Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/45%20-%20Double%20Bluff.md)
+### Not to be confused with [Double Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/45%20-%20Double%20Bluff.md)
 
 When describing [the bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/15%20-%20The%20Bluff.md), a special condition had to be true. You can only bluff the person who plays immediatly after yourself. The reason was explained: When bluffing, everyone thinks they have the required card, therefore your target must be the very first person who will get a chance to play it, since they would all attempt it. After this person plays, everyone understands that it was a bluff, etc.
 
