@@ -43,5 +43,5 @@ For example: You clue "red" on red4, while only red1 is played. The player on yo
 * [Previous: Misplay Cost](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/44%20-%20Misplay%20Cost.md)
 	* Only fix an impending misplay if the team is on their last life, or if you don't want to lose the card that would be misplayed.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/40%20-%20The%20Prompt.md)
-	* 
+* [Next: Repeat Fix Clue](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/46%20-%20Repeat%20Fix%20Clue.md)
+	* If a clue gives zero new information, doesn't gain tempo and was given as if it was a good clue (not low-value), then it should be interpreted as a fix clue.

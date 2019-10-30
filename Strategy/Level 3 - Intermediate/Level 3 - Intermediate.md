@@ -65,16 +65,16 @@ The level of strategies in this section will allow players to succeed even when 
 ### [45 - Double Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/45%20-%20Double%20Bluff.md)
 * You can use a card that is 2-away from playable for a bluff, but it is a double bluff, and gets the next two unrelated finesse-slot cards played.
 
-### [41 - ]()
+### [46 - Repeat Fix Clue](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/46%20-%20Repeat%20Fix%20Clue.md)
+* If a clue gives zero new information, doesn't gain tempo and was given as if it was a good clue (not low-value), then it should be interpreted as a fix clue.
+
+### [47 - ]()
 * 
 
-### [41 - ]()
+### [48 - ]()
 * 
 
-### [41 - ]()
-* 
-
-### [41 - ]()
+### [49 - ]()
 * 
 
 <br />
