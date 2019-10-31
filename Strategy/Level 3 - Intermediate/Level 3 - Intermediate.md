@@ -68,8 +68,8 @@ The level of strategies in this section will allow players to succeed even when 
 ### [46 - Repeat Fix Clue](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/46%20-%20Repeat%20Fix%20Clue.md)
 * If a clue gives zero new information, doesn't gain tempo and was given as if it was a good clue (not low-value), then it should be interpreted as a fix clue.
 
-### [47 - ]()
-* 
+### [47 - Finesse Stomp](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/47%20-%20Finesse%20Stomp.md)
+* Recluing something that was finessed is called a finesse stomp. With beginners, it is usually a mistake as the person didn't see that it was finessed, but with experienced players, it's a more subtle type of repeat fix clue.
 
 ### [48 - ]()
 * 

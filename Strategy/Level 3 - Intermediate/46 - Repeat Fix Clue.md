@@ -27,5 +27,5 @@ Pretty much most interpretations take priority over repeat fix clues, because th
 * [Previous: Double Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/45%20-%20Double%20Bluff.md)
 	* You can use a card that is 2-away from playable for a bluff, but it is a double bluff, and gets the next two unrelated finesse-slot cards played.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/40%20-%20The%20Prompt.md)
-	* 
+* [Next: Finesse Stomp](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/47%20-%20Finesse%20Stomp.md)
+	* Recluing something that was finessed is called a finesse stomp. With beginners, it is usually a mistake as the person didn't see that it was finessed, but with experienced players, it's a more subtle type of repeat fix clue.
