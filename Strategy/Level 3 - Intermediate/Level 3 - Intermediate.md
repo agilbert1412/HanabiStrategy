@@ -71,8 +71,8 @@ The level of strategies in this section will allow players to succeed even when 
 ### [47 - Finesse Stomp](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/47%20-%20Finesse%20Stomp.md)
 * Recluing something that was finessed is called a finesse stomp. With beginners, it is usually a mistake as the person didn't see that it was finessed, but with experienced players, it's a more subtle type of repeat fix clue.
 
-### [48 - ]()
-* 
+### [48 - Information Priority](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/48%20-%20Information%20Priority.md)
+* If you have a choice between playing a card whose identity you know exactly, and one that might be several things, you should play the latter because seeing what it is will help you make better choices afterwards.
 
 ### [49 - ]()
 * 

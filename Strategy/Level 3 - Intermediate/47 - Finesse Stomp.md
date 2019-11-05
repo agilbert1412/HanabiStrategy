@@ -28,5 +28,5 @@ Basically, once your team reaches a certain level of play, you can stop assuming
 * [Previous: Repeat Fix Clue](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/46%20-%20Repeat%20Fix%20Clue.md)
 	* If a clue gives zero new information, doesn't gain tempo and was given as if it was a good clue (not low-value), then it should be interpreted as a fix clue.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/40%20-%20The%20Prompt.md)
-	* 
+* [Next: Information Priority](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/48%20-%20Information%20Priority.md)
+	* If you have a choice between playing a card whose identity you know exactly, and one that might be several things, you should play the latter because seeing what it is will help you make better choices afterwards.
