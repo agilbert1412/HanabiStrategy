@@ -33,5 +33,5 @@ Extra information: [Starting 1s principle](https://github.com/agilbert1412/Hanab
 * [Previous: Finesse Stomp](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/47%20-%20Finesse%20Stomp.md)
 	* Recluing something that was finessed is called a finesse stomp. With beginners, it is usually a mistake as the person didn't see that it was finessed, but with experienced players, it's a more subtle type of repeat fix clue.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/40%20-%20The%20Prompt.md)
-	* 
+* [Next: Pang of Guilt](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/49%20-%20Pang%20of%20Guilt.md)
+	* Every time you give a clue on a card that is on finesse slot, you should feel a pang of guilt, as you may have taken away a bluff or finesse opportunity from somebody.
