@@ -21,6 +21,9 @@ This is a list of all of our agreed-upon conventions
 ### [38 - 3 Bluff](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/38%20-%203%20Bluff.md)
 * You can bluff using a 3, instead of a card 1-away from playable, as long as the clue doesn't match the played card.
 
+### [49 - The Dump Truck](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/50%20-%20Dump%20Truck.md)
+* Blind misplay your chop in the early game to signal that somebody can play their entire hand from newest to oldest
+
 <br />
 
 ## Navigation

@@ -31,5 +31,5 @@ Let other players do finesses as much as possible when you can't do them yoursel
 * [Previous: Information Priority](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/48%20-%20Information%20Priority.md)
 	* If you have a choice between playing a card whose identity you know exactly, and one that might be several things, you should play the latter because seeing what it is will help you make better choices afterwards.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/40%20-%20The%20Prompt.md)
-	* 
+* [Next: The Dump Truck](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/50%20-%20Dump%20Truck.md)
+	* Blind misplay your chop in the early game to signal that somebody can play their entire hand from newest to oldest

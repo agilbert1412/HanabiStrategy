@@ -77,8 +77,8 @@ The level of strategies in this section will allow players to succeed even when 
 ### [49 - Pang of Guilt](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/49%20-%20Pang%20of%20Guilt.md)
 * Every time you give a clue on a card that is on finesse slot, you should feel a pang of guilt, as you may have taken away a bluff or finesse opportunity from somebody.
 
-### [49 - ]()
-* 
+### [49 - The Dump Truck](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/50%20-%20Dump%20Truck.md)
+* Blind misplay your chop in the early game to signal that somebody can play their entire hand from newest to oldest
 
 ### [49 - ]()
 * 
