@@ -4,8 +4,7 @@
 
 ## Convention
 	
-This moves sacrifices a life for the sake of efficiency or tempo. It should not be used in games where the players often lose 2 or more lives to mistakes
-
+The Dump Truck is one of many types of [Sacrifices](https://github.com/agilbert1412/HanabiStrategy/blob/master/Categories/Sacrifices.md)
 
 During the early game, reasonably often, one player will have a hand that is entirely playable from newest to oldest. Of course, the in the ideal scenario, you can finesse their oldest card with something, therefore getting their entire hand + 1 cards played with a single clue, because of the deep layers.
 
