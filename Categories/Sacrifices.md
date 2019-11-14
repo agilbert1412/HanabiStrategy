@@ -16,8 +16,11 @@ Obviously, all those strategies become unusable as soon as the team reaches thei
 
 ## List of Sacrifices
 
-### [49 - The Dump Truck](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/50%20-%20Dump%20Truck.md)
+### [50 - The Dump Truck](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/50%20-%20Dump%20Truck.md)
 * Blind misplay your chop in the early game to signal that somebody can play their entire hand from newest to oldest
+
+### [51 - Distributed Dump Truck](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/51%20-%20Distributed%20Dump%20Truck.md)
+* in 5+ player games, pretend to do a dump truck when everyone has a playable card on finesse slot so everyone plays exactly once.
 
 <br />
 
