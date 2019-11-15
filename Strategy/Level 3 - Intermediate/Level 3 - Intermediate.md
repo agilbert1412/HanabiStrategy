@@ -83,7 +83,31 @@ The level of strategies in this section will allow players to succeed even when 
 ### [51 - Distributed Dump Truck](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/51%20-%20Distributed%20Dump%20Truck.md)
 * in 5+ player games, pretend to do a dump truck when everyone has a playable card on finesse slot so everyone plays exactly once.
 
-### [52 - ]()
+### [52 - Tempo Clue Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/52%20-%20Tempo%20Clue%20Chop%20Move.md)
+* If a tempo clue happens for no obvious purpose, and you would have had nothing to do other than discarding on this turn, it should be taken as a chop move.
+
+### [53 - ]()
+* 
+
+### [54 - ]()
+* 
+
+### [55 - ]()
+* 
+
+### [56 - ]()
+* 
+
+### [57 - ]()
+* 
+
+### [58 - ]()
+* 
+
+### [59 - ]()
+* 
+
+### [60 - ]()
 * 
 
 <br />

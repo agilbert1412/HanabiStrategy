@@ -27,5 +27,5 @@ Just like the real dump truck, you can also do higher-value variations, each exp
 * [Previous: The Dump Truck](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/50%20-%20Dump%20Truck.md)
 	* Blind misplay your chop in the early game to signal that somebody can play their entire hand from newest to oldest
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/40%20-%20The%20Prompt.md)
-	* 
+* [Next: Tempo Clue Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/52%20-%20Tempo%20Clue%20Chop%20Move.md)
+	* If a tempo clue happens for no obvious purpose, and you would have had nothing to do other than discarding on this turn, it should be taken as a chop move.
