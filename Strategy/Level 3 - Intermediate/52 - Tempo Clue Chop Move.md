@@ -4,7 +4,7 @@
 
 ## Technique
 
-The Trash Chop Move is one of many types of [Chop Moves](https://github.com/agilbert1412/HanabiStrategy/blob/master/Categories/Chop%20Moves.md).
+The Tempo Clue Chop Move is one of many types of [Chop Moves](https://github.com/agilbert1412/HanabiStrategy/blob/master/Categories/Chop%20Moves.md).
 
 [Tempo Clues](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/28%20-%20Tempo%20Clue.md) can have many different meanings, but it always comes down to the question of how valuable was the gained tempo, and was it worth it. If your analysis brings you to the answer "no", it means there is a part of the clue you don't see.
 
@@ -23,5 +23,5 @@ If you received the clue, and can't see the "more" thing, and there was a reason
 * [Previous: Distributed Dump Truck](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/51%20-%20Distributed%20Dump%20Truck.md)
 	* in 5+ player games, pretend to do a dump truck when everyone has a playable card on finesse slot so everyone plays exactly once.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/40%20-%20The%20Prompt.md)
-	* 
+* [Next: Lie Component](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/53%20-%20Lie%20Component.md)
+	* You can do a soft lie, which is doing a finesse when the expected card is not in a playable position, if you know for sure you can fix before it turns into a mistake and it brings some value through the cards that get played before the fix.

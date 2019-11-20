@@ -23,7 +23,7 @@ If you happen (very rare) to see two players that can be dump trucked, blind mis
 
 ## Tempo Issues
 
-While a dump truck is an extremely efficient move (4/5 cards played in exchange of one card lost and one life), it has very poor tempo. Since the value of tempo (relative to efficient) grows over the course of the game, doing it in the beginning is not problematic.
+While a dump truck is an extremely efficient move (4/5 cards played in exchange of one card lost and one life), it has very poor tempo. Since the value of tempo (relative to efficiency) grows over the course of the game, doing it in the beginning is not problematic.
 
 Even with this, the tempo of such a move is so bad (one player having 3/5 cards to play means we need to consume 15-20 turns of tempo to get this done) that it must be done in the fastest possible way. This means that the dump trucked player MUST play every single turn he gets until the dump truck is over, and cannot delay even to do efficient clues. Furthermore, if any finesse component is present in the dump truck, they must resolve before they are needed, so that the dump trucked player doesn't need to wait for potential finesses and delay any of the plays. If one of the plays require waiting, the dump truck is invalid.
 

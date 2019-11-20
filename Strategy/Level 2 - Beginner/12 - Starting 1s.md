@@ -7,7 +7,7 @@
 Usually, when you get a play clue that touches multiple cards, it only means that the focus is playable. The rest is collateral, and may or may not be playable.
 When it comes to 1s, however, if the clue is the number "1", any collateral is instantly known to be playable because of good touch principle. Any 1 that is not trash is immediately playable.
 
-	* Definition of Freshly drawn -> A card that was not in your starting hand, but was picked up after playing or discarding something
+* Definition of Freshly drawn -> A card that was not in your starting hand, but was picked up after playing or discarding something
 
 Since 1s are a special case when it comes to play clues, the focus of the clue is pretty much irrelevant, since you expect them all to be playable anyway. In this case, which one should you play first?
 

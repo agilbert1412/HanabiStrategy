@@ -86,8 +86,8 @@ The level of strategies in this section will allow players to succeed even when 
 ### [52 - Tempo Clue Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/52%20-%20Tempo%20Clue%20Chop%20Move.md)
 * If a tempo clue happens for no obvious purpose, and you would have had nothing to do other than discarding on this turn, it should be taken as a chop move.
 
-### [53 - ]()
-* 
+### [53 - Lie Component](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/53%20-%20Lie%20Component.md)
+* You can do a soft lie, which is doing a finesse when the expected card is not in a playable position, if you know for sure you can fix before it turns into a mistake and it brings some value through the cards that get played before the fix.
 
 ### [54 - ]()
 * 
