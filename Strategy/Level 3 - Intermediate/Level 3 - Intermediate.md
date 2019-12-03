@@ -89,11 +89,11 @@ The level of strategies in this section will allow players to succeed even when 
 ### [53 - Lie Component](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/53%20-%20Lie%20Component.md)
 * You can do a soft lie, which is doing a finesse when the expected card is not in a playable position, if you know for sure you can fix before it turns into a mistake and it brings some value through the cards that get played before the fix.
 
-### [54 - ]()
-* 
+### [54 - Lines](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/54%20-%20Lines.md)
+* The future is a tree, and each turn you choose a branch and move on to this subtree. You have to choose the best one according to your current knowledge every turn.
 
-### [55 - ]()
-* 
+### [55 - High Value Cards](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/55%20-%20High%20Value%20Cards.md)
+* Critical cards and playable cards should be treated as very important, and not discarded, while almost-playable cards and 3s should not be carelessly thrown away unless necessary.
 
 ### [56 - ]()
 * 

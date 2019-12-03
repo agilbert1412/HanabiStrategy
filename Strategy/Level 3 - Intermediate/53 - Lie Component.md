@@ -37,5 +37,5 @@ Analyze the situation beforehand. Make sure doing the lie component finesse is w
 * [Previous: Tempo Clue Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/52%20-%20Tempo%20Clue%20Chop%20Move.md)
 	* If a tempo clue happens for no obvious purpose, and you would have had nothing to do other than discarding on this turn, it should be taken as a chop move.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/50%20-%20The%20Prompt.md)
-	* 
+* [Next: Lines](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/54%20-%20Lines.md)
+	* The future is a tree, and each turn you choose a branch and move on to this subtree. You have to choose the best one according to your current knowledge every turn.
