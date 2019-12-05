@@ -95,11 +95,11 @@ The level of strategies in this section will allow players to succeed even when 
 ### [55 - High Value Cards](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/55%20-%20High%20Value%20Cards.md)
 * Critical cards and playable cards should be treated as very important, and not discarded, while almost-playable cards and 3s should not be carelessly thrown away unless necessary.
 
-### [56 - ]()
-* 
+### [56 - Discard Modulation](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/56%20-%20Discard%20Modulation.md)
+* If either you or the next player will have to discard, and the other can give a decent clue, look at their chop to evaluate if it should be you or them.
 
-### [57 - ]()
-* 
+### [57 - Ambiguous Finesse Pass Back](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/57%20-%20Ambiguous%20Finesse%20Pass%20Back.md)
+* When you realize that you are part of an ambiguous finesse, you can either respond to it by playing, or keep ignoring it to pass back the burden of playing to the other person implicated. Do this if you have a good reason to prefer that they respond to it instead of you.
 
 ### [58 - ]()
 * 
