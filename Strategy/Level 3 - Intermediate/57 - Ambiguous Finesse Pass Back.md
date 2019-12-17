@@ -56,5 +56,5 @@ Warning: This last example requires incredible trust that players are good with 
 * [Previous: Discard Modulation](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/56%20-%20Discard%20Modulation.md)
 	* If either you or the next player will have to discard, and the other can give a decent clue, look at their chop to evaluate if it should be you or them.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/50%20-%20The%20Prompt.md)
-	* 
+* [Next: Positional Misplay](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/58%20-%20Positional%20Misplay.md)
+	* If you are about to do a positional discard, but the target might think you are just discarding your chop normally, misplay instead to convey the message harder.

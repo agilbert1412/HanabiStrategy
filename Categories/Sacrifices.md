@@ -22,6 +22,12 @@ Obviously, all those strategies become unusable as soon as the team reaches thei
 ### [51 - Distributed Dump Truck](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/51%20-%20Distributed%20Dump%20Truck.md)
 * in 5+ player games, pretend to do a dump truck when everyone has a playable card on finesse slot so everyone plays exactly once.
 
+### [58 - Positional Misplay](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/58%20-%20Positional%20Misplay.md)
+* If you are about to do a positional discard, but the target might think you are just discarding your chop normally, misplay instead to convey the message harder.
+
+### [59 - Double Positional Misplay](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/59%20-%20Double%20Positional%20Misplay.md)
+* When in a position to do a positional discard that would be understood by itself, you can misplay instead to send the message harder, which will signal that two players can play that specific slot
+
 <br />
 
 ## Navigation

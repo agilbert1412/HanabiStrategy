@@ -101,11 +101,11 @@ The level of strategies in this section will allow players to succeed even when 
 ### [57 - Ambiguous Finesse Pass Back](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/57%20-%20Ambiguous%20Finesse%20Pass%20Back.md)
 * When you realize that you are part of an ambiguous finesse, you can either respond to it by playing, or keep ignoring it to pass back the burden of playing to the other person implicated. Do this if you have a good reason to prefer that they respond to it instead of you.
 
-### [58 - ]()
-* 
+### [58 - Positional Misplay](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/58%20-%20Positional%20Misplay.md)
+* If you are about to do a positional discard, but the target might think you are just discarding your chop normally, misplay instead to convey the message harder.
 
-### [59 - ]()
-* 
+### [59 - Double Positional Misplay](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/59%20-%20Double%20Positional%20Misplay.md)
+	* When in a position to do a positional discard that would be understood by itself, you can misplay instead to send the message harder, which will signal that two players can play that specific slot
 
 ### [60 - ]()
 * 
