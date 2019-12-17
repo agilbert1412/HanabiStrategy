@@ -105,10 +105,10 @@ The level of strategies in this section will allow players to succeed even when 
 * If you are about to do a positional discard, but the target might think you are just discarding your chop normally, misplay instead to convey the message harder.
 
 ### [59 - Double Positional Misplay](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/59%20-%20Double%20Positional%20Misplay.md)
-	* When in a position to do a positional discard that would be understood by itself, you can misplay instead to send the message harder, which will signal that two players can play that specific slot
+* When in a position to do a positional discard that would be understood by itself, you can misplay instead to send the message harder, which will signal that two players can play that specific slot
 
-### [60 - ]()
-* 
+### [60 - Baton Discard](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/60%20-%20Baton%20Discard.md)
+* You can perform a gentleman's discard on a card that isn't playable yet, as long as it is not layered.
 
 <br />
 

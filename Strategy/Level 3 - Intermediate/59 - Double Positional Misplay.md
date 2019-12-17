@@ -25,5 +25,5 @@ It may seem like this is only a niche scenario and not very useful on the first 
 * [Previous: Positional Misplay](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/58%20-%20Positional%20Misplay.md)
 	* If you are about to do a positional discard, but the target might think you are just discarding your chop normally, misplay instead to convey the message harder.
 
-* [Next: ](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/60%20-%20The%20Prompt.md)
-	* 
+* [Next: Baton Discard](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/60%20-%20Baton%20Discard.md)
+	* You can perform a gentleman's discard on a card that isn't playable yet, as long as it is not layered.
