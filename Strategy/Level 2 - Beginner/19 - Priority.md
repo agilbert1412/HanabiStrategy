@@ -8,12 +8,12 @@ Sometimes, your turn will come and you will have several playable cards. As ment
 
 Here is the best order when deciding what to play on this turn:
 
-1. Blind plays - Necessary to make sure everyone understands the situation as well as possible. If you have multiple blind plays, do them in the order you received them.
-2. Cards you are certain will allow someone to play something - Not playing those makes the team lose Tempo
-3. Cards you are certain will allow you to play something on the next turn. - This will give you more choice for the next turn, possibly giving you a better option then
-4. 5s - The team will get a free clue!
-5. The lowest-ranked card - Lower piles are more important to play on. It is better to reach the endgame with 1 card missing from 3 piles, than 3 cards from 1 pile.
-6. The most recent playable card - If all else is equal, the convention is to play the newest. This allows us to plan ahead for which card the player will play in all situations.
+1. **Blind plays** - Necessary to make sure everyone understands the situation as well as possible. If you have multiple blind plays, do them in the order you received them.
+2. **Cards you are** certain will allow someone to play something - Not playing those makes the team lose Tempo
+3. **Cards you are** certain will allow you to play something on the next turn. - This will give you more choice for the next turn, possibly giving you a better option then
+4. **5s** - The team will get a free clue!
+5. **The lowest-ranked card** - Lower piles are more important to play on. It is better to reach the endgame with 1 card missing from 3 piles, than 3 cards from 1 pile.
+6. **The most recent playable card** - If all else is equal, the convention is to play the newest. This allows us to plan ahead for which card the player will play in all situations.
 
 Any tie should result in you tiebreaking using the next criteria.
 
