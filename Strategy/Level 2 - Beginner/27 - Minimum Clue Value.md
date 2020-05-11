@@ -47,7 +47,7 @@ Of course, if you have something to play, you can just play. Those situations on
 ### Examples of Zero-value clues
 
 * Regiving a known information
-* Stomping on a finesse
+* [Stomping on a finesse](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/47%20-%20Finesse%20Stomp.md)
 * Anything clearly useless
 
 <br />
