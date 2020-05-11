@@ -15,7 +15,7 @@ The level of strategies in this section usually makes the difference between goo
 ## Beginner Strategies
 
 ### [9 - Early Game](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/9%20-%20Early%20Game.md)
-* When you discard an unknown card, always choose the oldest unclued card in your hand. Always pick up new cards on the same side to make this easy to track.
+* The period of the game before the first blind discard is called the early game, and should be extended as much as reasonably possible without giving useless clues
 
 ### [10 - The Prompt](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/10%20-%20The%20Prompt.md)
 * Give a Play Clue to a higher-ranked card to notice someone that one of their clued cards goes in-between. Play the newest clued card that could be what is needed when someone prompts you.

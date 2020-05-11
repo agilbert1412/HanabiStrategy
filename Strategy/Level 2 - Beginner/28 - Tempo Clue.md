@@ -8,7 +8,7 @@ A tempo clue is a clue that touches no new cards, or that the only new cards tou
 
 A tempo clue is considered a [low-value clue](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/27%20-%20Minimum%20Clue%20Value.md), and should be given in situations where you are allowed to give low-value clues.
 
-For example, someone may have a clue 3 in their hand, whose color they don't know, and that happens to be playable right now. If the game flows normally, this person will play it when all the 2s are on the stacks (or earlier, if they get a prompt or something). A tempo clue would give them their 3's color, so that they play it now, gaining tempo.
+For example, someone may have a clued 3 in their hand, whose color they don't know, and that happens to be playable right now. If the game flows normally, this person will play it when all the 2s are on the stacks (or earlier, if they get a prompt or something). A tempo clue would give them their 3's color, so that they play it now, gaining tempo.
 
 Since the card would have been eventually played without any extra clue, the card-value of the clue is zero, but since we gain tempo, the clue has some tempo-value. It is then qualified as a low-value clue (not really, zero, but below 1). The exact value depends on the precise tempo gain. Are the next cards of this color playable? Are they already clued? Does this person has many clued cards, and does this help balance?, etc.
 

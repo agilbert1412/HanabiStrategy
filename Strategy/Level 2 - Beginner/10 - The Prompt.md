@@ -45,7 +45,7 @@ Here, Bob has the red 3, but if it is not on the most recent clued 3, the move i
 * [Level 2 - Beginner Strategies](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/Level%202%20-%20Beginner.md)
 
 * [Previous: Early Game](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/9%20-%20Early%20Game.md)
-	* When you discard an unknown card, always choose the oldest unclued card in your hand. Always pick up new cards on the same side to make this easy to track.
+	* The period of the game before the first blind discard is called the early game, and should be extended as much as reasonably possible without giving useless clues
 
 * [Next: The Finesse](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/11%20-%20The%20Finesse.md)
 	* Same as Prompt, except none of the clued cards match the expected card. Then play your newest unclued card. Give out finesses to get new unclued cards played for free.
