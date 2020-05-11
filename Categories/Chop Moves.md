@@ -26,3 +26,6 @@ Obviously, the chop move only affects the specific card, not the slot, so when t
 
 ### [23 - Scream Discard Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%202%20-%20Beginner/24%20-%20Scream%20Discard%20Chop%20Move.md)
 * If the player on your left is about to discard a critical card and you can't save it, but he expects you to play something, discard instead to let him know he needs to use a clue right now.
+
+### [52 - Tempo Clue Chop Move](https://github.com/agilbert1412/HanabiStrategy/blob/master/Strategy/Level%203%20-%20Intermediate/52%20-%20Tempo%20Clue%20Chop%20Move.md)
+* If a tempo clue happens for no obvious purpose, and you would have had nothing to do other than discarding on this turn, it should be taken as a chop move.
